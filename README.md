@@ -23,6 +23,6 @@ Obtain an API Key from your service provider.
 Implement the socket.http library within the Lua environment.
 Store the API Key securely within the script variables.
 💾 Installation
-Ensure you have a Lua interpreter installed.
+Ensure you have a Lua interpreter installed, it should absolutely need to support standard io libraries (io.read(),io.open), and ANSI escape codes for colored texts.
 Download PixelSuite.lua.
-Run the script in your terminal: lua PixelSuite.lua
+Run the script in your terminal: lua PixelSuite.lua, commands should be easy as buttons are assigned to a number you'll need to enter in the terminal.
